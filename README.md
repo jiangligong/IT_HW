@@ -1,5 +1,6 @@
 # f5_IT_hw
 ---
 ## F5
-- [第2週--基本概念(資料型別與變數)&作品線上展示分享](week02_f5a24)
-
+- [week03 選擇結構、清單與字串和迴圈加強練習](week03_f5a24)
+- [week04 函數(Function)與Turtle繪圖](week04_f5a24)
+- [week05 模組 (Module)與套件(Package)的建立與應用](week05_f5a24)
