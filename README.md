@@ -1,5 +1,5 @@
 # 協作平台鏈接
-- [協作平台]()
+- [協作平台](https://github.com/jiangligong/IT_HW/blob/main/week03_f5a24/f5a24_1.md)
 ---
 ## F5
 - [week03 選擇結構、清單與字串和迴圈加強練習](week03_f5a24)
