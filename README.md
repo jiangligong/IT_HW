@@ -8,3 +8,5 @@
 - [week08 物件導向-Class類的封裝/繼承/多型](week08_f5a24)
 - [week09 檔案處理(File Handling)](week09_f5a24)
 - [week10 OpenCV初探](week10_f5a24)
+- [week14 OpenCV初探](week14_f5a24)
+- [week15 OpenCV人臉偵測](week15_f5a24)
